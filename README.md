@@ -100,20 +100,8 @@ boundaries are stable and learnable.
 pip install pandas numpy matplotlib seaborn scikit-learn gower kmedoids
 ```
 
-**Data**
-Place `Dataset1_BankClients.xlsx` and `BankClients_Metadata.xlsx` in the project
-root directory.
-
 **Execution**
-Open `BankClients_Segmentation_Final1.ipynb` in Jupyter and run all cells
+Open `BankClients_Segmentation.ipynb` in Jupyter and run all cells
 sequentially. Note that the Gower matrix computation (~1–2 min) and t-SNE
 (~2–3 min) are the most time-intensive steps. Cells containing these computations
 can be skipped on subsequent runs if the results are already stored.
-
-**Key parameters to configure**
-- `N_CLUSTERS` — override the automatically selected k if domain knowledge suggests
-  a different segmentation granularity
-- `CLUSTER_LABELS` — assign business names to each cluster after inspecting the
-  profiling output in Section 10
-- Feature weights in the Gower cell — adjust to amplify variables most relevant
-  to your segmentation objective
