@@ -1,4 +1,4 @@
-# clusterizing-financial-personas# Bank Client Segmentation — Unsupervised ML on Mixed-Type Data
+# clusterizing-financial-personas — Unsupervised ML on Mixed-Type Data
 
 > Segmenting 5,000 Italian bank clients into actionable personas using
 > Gower Distance, K-Medoids, t-SNE, PCA, and LVQ1.
