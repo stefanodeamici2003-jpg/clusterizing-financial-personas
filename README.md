@@ -71,7 +71,7 @@ into a single prototype vector.
 
 | Cluster | Label | Key Signals |
 |---------|-------|-------------|
-| 0 | Mass Passive | Middle-income, passive or no investment behavior |
+| 0 | Liquidity Holders | Middle-income, passive or no investment behavior |
 | 1 | Mass Active | Middle-income, active PAC investors, higher FinEdu & Digital |
 | 2 | Elderly Conservatives | Oldest group (~79y), near-zero debt, low digital, high ESG |
 | 3 | Young Affluent Investors | Youngest & wealthiest (~50y), high FinEdu, Digital, Luxury |
